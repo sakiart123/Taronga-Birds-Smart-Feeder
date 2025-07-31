@@ -1,0 +1,14 @@
+# ================================
+# Smart Bird Feeder Configuration
+# ================================
+
+# Cooldown time in (minutes) between feeder activations.
+Cool down: 15
+
+# Operating hours in 24-hour format (HH:MM:SS).
+Start Time: (07:00:00)
+Close Time: (18:30:00)
+
+# Frequency in which the antenna is turned on and off (seconds).
+Power On: 10
+Power OFF: 10
