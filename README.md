@@ -32,7 +32,7 @@ Once installed, plug in your Arduino board via USB. Open the Arduino IDE and:
 2. Select the correct **COM port** associated with your board.
 3. Press the **Upload button** (highlighted in red) to compile and upload your code to the board.
 
-![Arduino Bar](image/ArduinoBar.jpg)
+![Adruino Bar](image/AdruinoBar.jpg)
 
 
 ------------------------------------------------------------------------------------------------------------
