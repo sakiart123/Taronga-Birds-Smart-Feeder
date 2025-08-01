@@ -94,6 +94,6 @@ The project will now open in the IDE. You can now verify and upload the code to 
 
 ------------------------------------------------------------------------------------------------------------
 ## Hardware setup
-![Wiring diagram](image/Wiring diagram.png)
+![Wiring](image/Wiring.png)
 ------------------------------------------------------------------------------------------------------------
 
